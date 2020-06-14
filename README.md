@@ -1,3 +1,23 @@
+# Pratical Programming in HDL
+
+## Logic Design Fundamentals
+
+## Device Physics
+
+## Building Basic Logic Structures
+
+## Developing a design project
+  
+- High Level Specification
+- Micro Architecture
+- Test Environment
+- RTL Coding
+- Validation
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/s-chilka/s-chilka.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
